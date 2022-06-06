@@ -3,8 +3,7 @@ Installation and configuration of a cloud and a chat application to work with an
 I set up and fully configure on a vps: openLDAP, Nextcloud , Rocketchat , Keycloak , elasticsearch.  
 I developed a Java library to fully manage the above.  
 
-Install NextCloud (lamp stack).
-
+Install NextCloud (lamp stack).  
 Install RocketChat (Snaps).  
 Install openLDAP as the main db.  
 Install KeyCloak for SSO.  
