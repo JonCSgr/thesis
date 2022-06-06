@@ -8,8 +8,11 @@ I developed a Java library to fully manage the above.
 Install NextCloud (lamp stack).
 
 Install RocketChat (Snaps).
+
 Install openLDAP as the main db.
+
 Install KeyCloak for SSO.
+
 Install ElasticSearch for OCR and full text search.
 
 Fully configure them to communicate with each other. The main db was openLDAP and all the users were imported from there to all the applications.
