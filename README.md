@@ -6,6 +6,7 @@ I set up and fully configure on a vps: openLDAP, Nextcloud , Rocketchat , Keyclo
 I developed a Java library to fully manage the above. 
 
 Install NextCloud (lamp stack).
+
 Install RocketChat (Snaps).
 Install openLDAP as the main db.
 Install KeyCloak for SSO.
